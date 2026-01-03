@@ -1,0 +1,15 @@
+* {
+    font-family: 'Times New Roman', Arial, serif;
+}
+
+body {
+    background: hsl(182, 32%, 55%);
+}
+
+img {
+    border: 5px solid rgb(188, 188, 188);
+}
+
+.listspace {
+    margin: 15px;
+}
